@@ -42,30 +42,30 @@ h1{
     color: white;
 }
 .Z{
-    background-image: url("images/crash.png");
+    background-image: url("crash.png");
     background-size: 93px 85px;
 }
 .X{
-    background-image: url("images/kick.png");
+    background-image: url("kick.png");
     background-size: 90px 90px;
 }
 .C{
-    background-image: url("images/snare.png");
+    background-image: url("snare.png");
     background-size: 90px 90px;
 }
 .V{
-    background-image: url("images/tom1.png");
+    background-image: url("tom1.png");
     background-size: 90px 90px;
 }
 .B{
-    background-image: url("images/tom2.png");
+    background-image: url("tom2.png");
     background-size: 90px 90px;
 }
 .N{
-    background-image: url("images/tom3.png");
+    background-image: url("tom3.png");
     background-size: 90px 90px;
 }
 .M{
-    background-image: url("images/tom4.png");
+    background-image: url("tom4.png");
     background-size: 90px 90px;
 }
