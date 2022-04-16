@@ -2,33 +2,36 @@ body{
     background-color: #24A19C;
     margin: 0% 5%;
 }
+html{
+    font-size: 10px;
+}
 h1{
     font-family: 'PT Serif', serif;
-    margin-top: 0px;
+    margin-top: 0rem;
     color: white;
-    text-shadow: 6px 0px #FFC0D3;
-    font-size: 150px;
+    text-shadow: 0.6rem 0rem #FFC0D3;
+    font-size: 15rem;
 }
 .button{
-    border-radius: 12px;
+    border-radius: 1.2rem;
     border-color: #FFC0D3;
-    width: 100px;
-    height: 100px;
-    border-width: 5px;
-    font-size: 60px;
+    width: 10rem;
+    height: 10rem;
+    border-width: 0.5rem;
+    font-size: 6rem;
     font-family: 'Noto Sans', sans-serif;
-    margin: auto 12px auto 12px;
+    margin: auto 1.2rem auto 1.2rem;
     color:  #FFC0D3;
-    text-shadow: 4px 0px red;
+    text-shadow: 0.4rem 0rem red;
 }
 .imgdiv{
     text-align: center;
 }
 .images{
-    border-radius: 17px;
-    margin: auto 12px auto 12px;
-    height: 100px;
-    width: 100px;
+    border-radius: 1.7rem;
+    margin: auto 1.2rem auto 1.2rem;
+    height: 10rem;
+    width: 10rem;
     margin-bottom: 5%;
 }
 .btns{
@@ -42,30 +45,30 @@ h1{
     color: white;
 }
 .Z{
-    background-image: url("crash.png");
-    background-size: 93px 85px;
+    background-image: url("images/crash.png");
+    background-size: 9.3rem 8.5rem;
 }
 .X{
-    background-image: url("kick.png");
-    background-size: 90px 90px;
+    background-image: url("images/kick.png");
+    background-size: 9rem 9rem;
 }
 .C{
-    background-image: url("snare.png");
-    background-size: 90px 90px;
+    background-image: url("images/snare.png");
+    background-size: 9rem 9rem;
 }
 .V{
-    background-image: url("tom1.png");
-    background-size: 90px 90px;
+    background-image: url("images/tom1.png");
+    background-size: 9rem 9rem;
 }
 .B{
-    background-image: url("tom2.png");
-    background-size: 90px 90px;
+    background-image: url("images/tom2.png");
+    background-size: 9rem 9rem;
 }
 .N{
-    background-image: url("tom3.png");
-    background-size: 90px 90px;
+    background-image: url("images/tom3.png");
+    background-size: 9rem 9rem;
 }
 .M{
-    background-image: url("tom4.png");
-    background-size: 90px 90px;
+    background-image: url("images/tom4.png");
+    background-size: 9rem 9rem;
 }
