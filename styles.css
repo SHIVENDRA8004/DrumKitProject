@@ -45,30 +45,30 @@ h1{
     color: white;
 }
 .Z{
-    background-image: url("images/crash.png");
+    background-image: url("crash.png");
     background-size: 9.3rem 8.5rem;
 }
 .X{
-    background-image: url("images/kick.png");
+    background-image: url("kick.png");
     background-size: 9rem 9rem;
 }
 .C{
-    background-image: url("images/snare.png");
+    background-image: url("snare.png");
     background-size: 9rem 9rem;
 }
 .V{
-    background-image: url("images/tom1.png");
+    background-image: url("tom1.png");
     background-size: 9rem 9rem;
 }
 .B{
-    background-image: url("images/tom2.png");
+    background-image: url("tom2.png");
     background-size: 9rem 9rem;
 }
 .N{
-    background-image: url("images/tom3.png");
+    background-image: url("tom3.png");
     background-size: 9rem 9rem;
 }
 .M{
-    background-image: url("images/tom4.png");
+    background-image: url("tom4.png");
     background-size: 9rem 9rem;
 }
